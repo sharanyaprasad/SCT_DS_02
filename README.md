@@ -57,16 +57,6 @@ jupyter notebook titanic_eda_analysis.ipynb
 3. **Family size matters** - traveling alone or in large groups reduced survival
 4. **Economic status** directly correlated with survival chances
 
-## 📁 Project Structure
-
-```
-titanic-eda/
-├── README.md
-├── titanic_eda_analysis.ipynb    # Main analysis
-├── data/train.csv               # Dataset
-└── requirements.txt
-```
-
 ## 📧 Contact
 
 **Your Name** - sharanya356.prasad@gmail.com
