@@ -5,13 +5,13 @@
 [![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-green)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5%2B-red)](https://matplotlib.org/)
 
-## 📋 Overview
+## 📋 Project Overview
 
 Comprehensive **Exploratory Data Analysis** and **Data Cleaning** on the Titanic dataset to identify key survival patterns and factors that influenced passenger survival rates.
 
 **Dataset:** 891 passengers from [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic)
 
-## 🚀 Quick Start
+## 🚀 Getting Started
 
 ```bash
 # Clone and setup
@@ -28,7 +28,7 @@ jupyter notebook titanic_eda_analysis.ipynb
 - **Python** - Pandas, Matplotlib, Seaborn, NumPy
 - **Jupyter Notebook** - Interactive analysis environment
 
-## 📊 Key Findings
+## 📊 Analysis Results
 
 | Factor | Survival Rate | Key Insight |
 |--------|---------------|-------------|
@@ -44,20 +44,20 @@ jupyter notebook titanic_eda_analysis.ipynb
 - **Missing Embarked:** Filled with most common port
 - **Feature Engineering:** Family_Size, Title extraction, Age_Group, Has_Cabin
 
-## 📈 Visualizations
+## 📈 Data Visualization
 
-- **Dashboard:** 8 different chart types showing survival patterns
-- **Infographic:** Key statistics in professional format
-- **Enhanced Charts:** Bar charts, heatmaps, pie charts with detailed insights
+- **Dashboard:** 8 different chart types showing survival patterns.
+- **Infographic:** Key statistics in professional format.
+- **Enhanced Charts:** Bar charts, heatmaps, pie charts with detailed insights.
 
-## 💡 Business Insights
+## 💡  Major Insights & Conclusions
 
-1. **Class-based evacuation** protocols were clearly followed
-2. **Gender prioritization** ("women and children first") strongly evident
-3. **Family size matters** - traveling alone or in large groups reduced survival
-4. **Economic status** directly correlated with survival chances
+1. **Class-based evacuation** protocols were clearly followed.
+2. **Gender prioritization** ("women and children first") strongly evident.
+3. **Family size matters** - traveling alone or in large groups reduced survival.
+4. **Economic status** directly correlated with survival chances.
 
-## 📧 Contact
+## 📧 Contacts
 
 **Your Name** - sharanya356.prasad@gmail.com
 
