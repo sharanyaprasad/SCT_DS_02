@@ -57,13 +57,3 @@ jupyter notebook titanic_eda_analysis.ipynb
 3. **Family size matters** - traveling alone or in large groups reduced survival.
 4. **Economic status** directly correlated with survival chances.
 
-## 📧 Contacts
-
-**Your Name** - sharanya356.prasad@gmail.com
-
-**LinkedIn:** [Sharanya Prasad](www.linkedin.com/in/sharanya-prasad-8256b4301)
-
----
-
-⭐ **Star this repo if you found it helpful!** ⭐
-
